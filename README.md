@@ -3,7 +3,6 @@
 A resume vs job description analysis web application built using React and Node.js.
 The system parses resumes and job descriptions using rule-based logic and calculates an ATS-style matching score based on skill overlap.
 It demonstrates resume parsing, regex-based information extraction, skill mapping, and scoring logic without using large language models.
-## 🔗 Live Demo:
 
 ---
 
