@@ -46,7 +46,7 @@ formData.append("jdText",jdText);
 try{
 
 const response = await axios.post(
-"http://localhost:5000/api/match",
+"https://resume-job-matcher-backend-1ybo.onrender.com/api/match",
 formData
 );
 
